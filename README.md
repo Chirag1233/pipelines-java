@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/chirag1404/Az-400/_apis/build/status/Chirag1233.pipelines-java?branchName=master)](https://dev.azure.com/chirag1404/Az-400/_build/latest?definitionId=7&branchName=master)
 
 # Contributing
 
